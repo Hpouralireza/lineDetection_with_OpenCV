@@ -1,8 +1,8 @@
 # lineDetection_with_OpenCV
 
 ### Find the road line in two ways:
-1- threshold & findContours
-2- erode method
+#### 1- threshold & findContours
+#### 2- erode method
 
 #
 First of all, we read the image and perform some steps on it, such as Gaussian/median Blur and Grayscale conversion.
